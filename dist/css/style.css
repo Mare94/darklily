@@ -1,0 +1,15 @@
+main {
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+h1 {
+    color: white;
+    outline: black;
+}
+
+.logo-img {
+    width: 125px;
+    margin: -1rem;
+    margin-right: 2rem;
+}
