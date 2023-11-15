@@ -14,7 +14,7 @@ WIP
  - dailystory
  - boss check
 
-## DONE
+## THINGS THAT ARE DONE
 
 ## USEFUL LINKING BOOTSTRAP
 https://getbootstrap.com/docs/5.2/customize/overview/
