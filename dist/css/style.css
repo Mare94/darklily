@@ -8,6 +8,14 @@ h1 {
     outline: black;
 }
 
+h2 {
+    color: white;
+}
+
+.text-color{
+    color: white;
+}
+
 .wip {
     background-color: red;
     opacity: 90%;
@@ -19,4 +27,22 @@ h1 {
     width: 125px;
     margin: -1rem;
     margin-right: 2rem;
+}
+
+.resource-img {
+    width: 450px;
+}
+
+.remove-styling {
+    text-decoration: none;
+}
+
+.link-style:hover {
+    color: green;
+    
+}
+
+.container {
+    padding-top: 5rem;
+    margin: auto;
 }
