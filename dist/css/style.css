@@ -33,6 +33,11 @@ h2 {
     width: 450px;
 }
 
+.banner-img {
+    width: auto;
+    height: 22rem;
+}
+
 .remove-styling {
     text-decoration: none;
 }
@@ -45,4 +50,8 @@ h2 {
 .container {
     padding-top: 5rem;
     margin: auto;
+}
+
+.banner-container {
+    margin: -4rem;
 }
